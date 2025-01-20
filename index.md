@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Place Holder Text for Final Project
 ---
 
